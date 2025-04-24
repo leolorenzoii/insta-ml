@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - matplotlib
-  - numpy
+  - numpy<2
   - pandas
   - ipykernel
   - python=3.10
@@ -21,6 +21,7 @@ dependencies:
   - ray-default >=2.10.0,<2.32
   - imbalanced-learn
   - gradio
+  - pyyaml
   - pip:
     - jupyter-contrib-nbextensions
     - ipywidgets
