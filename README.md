@@ -1,6 +1,8 @@
 # Insta ML For MSDS
 
-A consolidated repository of the different tools to implement predictive analytics using machine learning (based on the _Fundamentals of Machine Learning for Predictive Data Analytics 2e_ Kelleher et. al. 2020)
+A consolidated repository of the different tools to implement predictive analytics using machine learning (from the _Fundamentals of Machine Learning for Predictive Data Analytics 2e_ Kelleher et. al. 2020) based on the CRoss-Industry Standard Process for Data Mining (CRISP-DM).
+
+[Crisp DM Flowchart](crisp-dm.png)
 
 # References
 
