@@ -19,7 +19,7 @@ dependencies:
   - autogluon
   - ray-tune >=2.10.0,<2.32
   - ray-default >=2.10.0,<2.32
-  - imblearn
+  - imbalanced-learn
   - gradio
   - pip:
     - jupyter-contrib-nbextensions
