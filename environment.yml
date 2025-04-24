@@ -1,0 +1,26 @@
+name: insta-ml
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - ipykernel
+  - python=3.10
+  - scikit-learn
+  - seaborn
+  - pip
+  - scipy
+  - jupyterlab
+  - openpyxl
+  - shap
+  - pandas-profiling
+  - autogluon
+  - ray-tune >=2.10.0,<2.32
+  - ray-default >=2.10.0,<2.32
+  - imblearn
+  - gradio
+  - pip:
+    - jupyter-contrib-nbextensions
+    - ipywidgets
