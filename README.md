@@ -2,7 +2,7 @@
 
 A consolidated repository of the different tools to implement predictive analytics using machine learning (from the _Fundamentals of Machine Learning for Predictive Data Analytics 2e_ Kelleher et. al. 2020) based on the CRoss-Industry Standard Process for Data Mining (CRISP-DM).
 
-<img src="./images/crisp-dm.png" alt="Crisp DM Flowchart" width="700"/>
+<img src="./images/crisp-dm.png" alt="Crisp DM Flowchart" width="550"/>
 
 # References
 
