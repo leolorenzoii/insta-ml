@@ -4,9 +4,32 @@ A consolidated repository of the different tools to implement predictive analyti
 
 <img src="./images/crisp-dm.png" alt="Crisp DM Flowchart" width="550"/>
 
-This is prepared and conceptualized by LLorenzo with the help of PDonato.
+*This is repository has been prepared and conceptualized by LLorenzo with the help of PDonato.*
 
-# References
+## Quick Start
+
+1. Install an environment for the project
+
+```
+conda env create -f environment.yml
+```
+
+or
+
+```
+mamba env create -f environment.yml
+```
+
+2. Set the correct filepath of the data on the `config.yml` file
+
+```
+filepaths:
+  data: '<filepath to dataset>'
+```
+
+3. Use the notebooks to guide you through the whole predictive analytics using machine learning pipeline.
+
+## References
 
 - Kelleher JD, Mac Namee B, D'arcy A. Fundamentals of machine learning for predictive data analytics: algorithms, worked examples, and case studies. MIT press; 2020 Oct 20.
 - https://auto.gluon.ai/stable/index.html
