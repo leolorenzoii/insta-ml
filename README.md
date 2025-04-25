@@ -4,6 +4,8 @@ A consolidated repository of the different tools to implement predictive analyti
 
 <img src="./images/crisp-dm.png" alt="Crisp DM Flowchart" width="550"/>
 
+This is prepared and conceptualized by LLorenzo with the help of PDonato.
+
 # References
 
 - Kelleher JD, Mac Namee B, D'arcy A. Fundamentals of machine learning for predictive data analytics: algorithms, worked examples, and case studies. MIT press; 2020 Oct 20.
