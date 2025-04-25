@@ -1,0 +1,4 @@
+filepaths:
+  data: 'data/titanic_train.csv'
+  abt: 'data/abt.csv'
+  model: 'models/20250425'
