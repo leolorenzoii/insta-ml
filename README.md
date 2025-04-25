@@ -9,3 +9,5 @@ This is prepared and conceptualized by LLorenzo with the help of PDonato.
 # References
 
 - Kelleher JD, Mac Namee B, D'arcy A. Fundamentals of machine learning for predictive data analytics: algorithms, worked examples, and case studies. MIT press; 2020 Oct 20.
+- https://auto.gluon.ai/stable/index.html
+- https://docs.profiling.ydata.ai/latest/
